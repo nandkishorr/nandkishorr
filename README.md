@@ -91,9 +91,6 @@
 </p>
     </div>
     
-  <a href="#">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nandkishorr&bg_color=000000&color=44ff00&line=09fb66&point=fbff00&area=true&hide_border=true"/>
-  </a>
 </p>
 
 
