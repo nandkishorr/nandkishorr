@@ -27,6 +27,8 @@
             What I'm up to</h2>
         <ul>
             <li> 👨🏻‍💻 I'm currently working on Front End Web Development 🌐</li>
+            <li> 👨🏻‍💻 A Postman Student Leader <img  src="https://github.com/nandkishorr/nandkishorr/assets/96693626/e05f3a88-57c3-44b6-9001-3666b989df4e" width="20"/>
+</li>
             <li>📫 How to reach me : <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1622508200/42507/email_open.png?1622508200" width="20" />
                 <a href="mailto:iamnandkishorr@gmail.com" target="_blank">iamnandkishorr@gmail.com</a></li>
