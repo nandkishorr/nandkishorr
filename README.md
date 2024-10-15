@@ -1,6 +1,6 @@
 <div align="left">
     <h1>Hi, I am <a href="#" target="_blank">Nandkishor R</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
-    <p>🙏🏻 Welcome to my Github profile!<br />I am a <b>Full Stack Developer</b> from <b>Kerala, India</b> 🇮🇳</p>
+    <p>🙏🏻 Welcome to my Github profile!<br />I am a <b>Software Developer</b> from <b>Kerala, India</b> 🇮🇳</p>
     <p>I love building software, learning, and trying out new technologies.</p>
     <div>
         <a href="https://twitter.com/Nandkishor_r_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
