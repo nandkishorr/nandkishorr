@@ -12,7 +12,7 @@
     </div>
     <h2>What I'm Up To</h2>
     <ul>
-        <li>👨🏻‍💻 Currently working on Backend Node Development 🌐</li>
+        <li>👨🏻‍💻 Currently working at Open Healthcare Network 🌐</li>
         <li>👨🏻‍💻 Postman Student Leader <img src="https://github.com/nandkishorr/nandkishorr/assets/96693626/e05f3a88-57c3-44b6-9001-3666b989df4e" width="20"/></li>
         <li>📫 Reach me at: <a href="mailto:iamnandkishorr@gmail.com" target="_blank">iamnandkishorr@gmail.com</a></li>
     </ul>
